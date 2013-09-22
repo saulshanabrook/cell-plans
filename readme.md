@@ -27,3 +27,22 @@ plan. We should support the most common first.
 ## Listing the competition
 Once a user has specified what they want, we should list the possible
 options, sorted by price.
+
+
+# Implementation
+since this is useful to the general public it should be a website.
+
+it does need to by the end user, and really could be a single page
+web app, completely static. that means that representation and data
+storage must all be done with javascript.
+
+I want to use [polymer](http://www.polymer-project.org/) as the
+javascript framework, because it seems like it will be the future. From
+their [FAQ](http://www.polymer-project.org/faq.html#why)
+
+> Unlike some other frameworks before it, Polymer attempts to embrace
+  HTML as much as possible by encouraging the use of custom element
+  wherever possible. It includes a handful of independent polyfills
+  for these emerging web standards (Custom Elements, Shadow DOM, etc.)
+  that over time, diminish and ultimately disappear as browser vendors
+  implement the native APIs.
