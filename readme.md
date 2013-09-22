@@ -46,3 +46,11 @@ their [FAQ](http://www.polymer-project.org/faq.html#why)
   for these emerging web standards (Custom Elements, Shadow DOM, etc.)
   that over time, diminish and ultimately disappear as browser vendors
   implement the native APIs.
+
+# Contributing
+this a project for the community., so please lend your voice.
+there are some guidelines for contribution
+
+1. all development must be done in separate branches, and then merged
+   into master
+2. follow appropriate code standards
