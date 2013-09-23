@@ -36,6 +36,7 @@ it does need to by the end user, and really could be a single page
 web app, completely static. that means that representation and data
 storage must all be done with javascript.
 
+## Framework
 I want to use [polymer](http://www.polymer-project.org/) as the
 javascript framework, because it seems like it will be the future. From
 their [FAQ](http://www.polymer-project.org/faq.html#why)
@@ -46,6 +47,11 @@ their [FAQ](http://www.polymer-project.org/faq.html#why)
   for these emerging web standards (Custom Elements, Shadow DOM, etc.)
   that over time, diminish and ultimately disappear as browser vendors
   implement the native APIs.
+
+To get a sense of what polymer is I recommend watching the [Google IO
+video on Web Components](http://www.youtube.com/watch?v=fqULJBBEVQE)
+and then the one on [Polymer](https://www.youtube.com/watch?v=0g0oOOT86NY)
+
 
 # Contributing
 this a project for the community., so please lend your voice.
